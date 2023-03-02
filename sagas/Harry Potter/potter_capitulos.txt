@@ -6,3 +6,4 @@
 6	Harry Potter y el misterio del príncipe
 7	Harry Potter y las reliquias de la muerte: Parte 1
 8	Harry Potter y las reliquias de la muerte: Parte 2
+9	Animales Fantásticos y donde encontrarlos
